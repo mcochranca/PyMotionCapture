@@ -19,7 +19,7 @@
     "@types/dom-mediacapture-record": "^1.0.11",
     "@types/w3c-image-capture": "^1.0.6",
     "@wmik/use-media-recorder": "^1.6.3-beta.0",
-    "axios": "^0.25.0",
+    "axios": "^1.13.5",
     "class-transformer": "0.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
